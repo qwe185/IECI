@@ -1,0 +1,6 @@
+Event.Type1:prompt start, The Event ( and Event ) in this sentence is related to law, profession, place, society, etc. ,end
+Event.Type2:prompt start, The Event ( and Event ) in this sentence is related to people, geography, organization, transportation, etc. ,end
+Event.Type3:prompt start, The Event ( and Event ) in this sentence is related to conflicts, crimes, protests, judicial processes, etc. ,end
+Event.Type4:prompt start, The Event ( and Event ) in this sentence are related to background, state, trend, modification, etc. ,end
+Event.Type5:prompt start, The Event ( and Event ) in this sentence is related to time, degree, body, location, etc. ,end
+Event.Type6:prompt start, The Event ( and Event ) in this sentence is related to weapons, disasters, directions, injuries, etc. ,end
