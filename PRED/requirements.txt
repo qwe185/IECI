@@ -1,0 +1,7 @@
+ipdb==0.13.13
+jsonlines==3.1.0
+numpy==1.21.6
+scipy==1.7.3
+spacy==3.1.0
+torch==1.13.1+cu116
+transformers==4.7.0
